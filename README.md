@@ -7,7 +7,7 @@ using the tool "Orteil Idle Game Maker".
 
 # Installation
 
-pip install ORTEIL-IDLE-GAME-MAKER-CODE-GENERATOR==1.0
+pip install ORTEIL-IDLE-GAME-MAKER-CODE-GENERATOR==1.1
 
 # Usage
 
