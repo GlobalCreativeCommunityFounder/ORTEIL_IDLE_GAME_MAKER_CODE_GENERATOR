@@ -339,6 +339,8 @@ Achievements
 
         game_file = open(str(game_name) + ".txt", "w+")
         game_file.write(game_script)
+        print("'Orteil Idle Game Maker' code is successfully generated! The code is in the file '"
+              + str(game_name) + ".txt'.")
         print("Enter 'Y' for yes.")
         print("Enter anything else for no.")
         continue_using = input("Do you want to continue using the tool 'Orteil Idle Game Maker Code Generator'? ")
