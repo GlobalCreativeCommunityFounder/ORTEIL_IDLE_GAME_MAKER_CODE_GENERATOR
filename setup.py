@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='ORTEIL_IDLE_GAME_MAKER_CODE_GENERATOR',
-    version='1',
+    version='1.2',
     packages=['ORTEIL_IDLE_GAME_MAKER_CODE_GENERATOR'],
     url='https://github.com/GlobalCreativeCommunityFounder/ORTEIL_IDLE_GAME_MAKER_CODE_GENERATOR',
     license='MIT',
