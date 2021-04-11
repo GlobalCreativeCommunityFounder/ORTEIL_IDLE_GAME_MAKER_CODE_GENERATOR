@@ -30,7 +30,7 @@ information regarding the idle game you want to develop using
 First, open by double clicking the file "orteil_idle_game_maker_code_generator.exe". How the
 executable file looks like is shown in the image below.
 
-![Executable File](images/Executable File.png)
+![Executable File](https://github.com/GlobalCreativeCommunityFounder/ORTEIL_IDLE_GAME_MAKER_CODE_GENERATOR/blob/main/images/Executable%20File.png)
 
 ## Getting Started
 
@@ -40,14 +40,14 @@ tool or not. If you enter 'Y', you will proceed to inputting
 information regarding the idle game you want to develop. Enterring 
 anything else will quit the application.
 
-![Getting Started](images/Getting Started.png)
+![Getting Started](https://github.com/GlobalCreativeCommunityFounder/ORTEIL_IDLE_GAME_MAKER_CODE_GENERATOR/blob/main/images/Getting%20Started.png)
 
 ## Let's make a game!
 
 In this section, you will be asked to input the name of the game,
 your name, and the game's description.
 
-![Let's make a game](images/Lets Make a Game.png)
+![Let's make a game](https://github.com/GlobalCreativeCommunityFounder/ORTEIL_IDLE_GAME_MAKER_CODE_GENERATOR/blob/main/images/Lets%20Make%20a%20Game.png)
 
 ## Settings
 
